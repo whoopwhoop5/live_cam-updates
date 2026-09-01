@@ -60,4 +60,4 @@ First public release, and the first on the new native desktop shell.
 
 ---
 
-Built from live_cam commit a9225d9. The installer above is the only file to download; the source archives are GitHub's automatic copy of this note.
+The installer above is the only file to download; the source archives are GitHub's automatic copy of this note.
