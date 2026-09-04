@@ -1,7 +1,7 @@
 {
-  "version": "0.6.0",
-  "url": "https://github.com/whoopwhoop5/live_cam-updates/releases/download/desktop-v0.6.0/LiveCam_0.6.0_x64-setup.exe",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIGxpdmVjYW0gcmVsZWFzZS1zaWduClJVUjJKaDNzZW5sN0IyMnI0MlVScHpyVlV2WEd2MkVjajU4bXd2V0Ryc0VFVWhWcG1JbkExOTZocHh4RG9rUmQwZ0dKN0hrZ1R0Smh4cDB1U3VkOVgrc2orRDNkM2hueHVBRT0KdHJ1c3RlZCBjb21tZW50OiB0aW1lc3RhbXA6MTc4ODQ0NjMzOAlmaWxlOkxpdmVDYW1fMC42LjBfeDY0LXNldHVwLmV4ZQo1N3ZxVEZqNFlZeHdCVUVFbmJqUjR2d2lVYlVFVkNMbVhxdG0wdHA4Kzc1UXdSdTE2S0Z4ODZDZUlKL3RsRTRlYUtnRi90dzNBUXB0MTl3aG8yMklEZz09Cg==",
-  "notes": "Mise à jour de fiabilité : les voix s'installent désormais correctement sur les connexions lentes, et de nombreuses améliorations de stabilité pour la voix et la vidéo en direct.",
-  "pub_date": "2026-09-03T14:39:30Z"
+  "version": "0.6.1",
+  "url": "https://github.com/whoopwhoop5/live_cam-updates/releases/download/desktop-v0.6.1/LiveCam_0.6.1_x64-setup.exe",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIGxpdmVjYW0gcmVsZWFzZS1zaWduClJVUjJKaDNzZW5sN0IzNjZQcWNONlU4WFRLSWRodVNTNStmT0VkVUZFUEJXSEV3b01KTVl4ZzZRV2tPZ1VNTmR4ckpGUG9aaUF1NzFjeHJVT3JYY0dsa2hJNjZ5ZjJJMWt3OD0KdHJ1c3RlZCBjb21tZW50OiB0aW1lc3RhbXA6MTc4ODUxNTA4NQlmaWxlOkxpdmVDYW1fMC42LjFfeDY0LXNldHVwLmV4ZQpiNFFhaVZLeTJ2TllDYUp3STkxc3o0M2sxVXd1MFNBemNyUGFwSzVyaldsVUdjVmJ3ZHprZUtEUUtEZ1NGSDJldWRiZWpVOVNXT3RGcVd0eWNKdndEZz09Cg==",
+  "notes": "Vous gardez la main à tout moment : chaque téléchargement et chaque opération peut désormais être interrompu, et l'installation des voix comme du mode instantané est plus rapide et plus fiable.",
+  "pub_date": "2026-09-04T09:45:20Z"
 }
